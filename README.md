@@ -48,19 +48,6 @@ My writing focuses mainly on **education, climate, and social issues**, especial
 
 ---
 
-## 📌 Quick Highlights
-
-| Category      | Details                                                   |
-| ------------- | --------------------------------------------------------- |
-| 🎓 Education  | B.Sc. in Biochemistry & Biotechnology                     |
-| 🏫 University | North South University                                    |
-| 📰 Journalism | Part-time journalist                                      |
-| ✍️ Articles   | 20+ articles                                              |
-| ⏳ Experience  | 8 years                                                   |
-| 🌍 Focus      | Education, climate, social issues, Bangladesh, South Asia |
-
----
-
 > “Science gives us knowledge, but communication gives that knowledge meaning.”
 
 ### Thanks for visiting! 🌿
