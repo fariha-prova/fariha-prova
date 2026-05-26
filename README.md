@@ -24,5 +24,4 @@ Over the past **8 years**, I have written **20+ published newspaper articles** i
 
 ## Portfolio
 
-```text
-https://fariha-prova.github.io
+[fariha-prova.github.io](https://fariha-prova.github.io)
